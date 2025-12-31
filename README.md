@@ -74,9 +74,9 @@ My long-term goal is to grow into a **Technical Solutions Architect**, shaping s
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/NaushadAP
-- **LinkedIn:** *(add your LinkedIn URL)*
-- **Email:** *(add professional email)*
-- **Portfolio / Blog:** *(optional)*
+- **LinkedIn:** *[LinkedIn)](https://www.linkedin.com/in/naushad-punjani-a3b014129/)*
+- **Email:** *[Email)](napunjani@gmail.com)*
+- **Portfolio / Blog:** *[Naushad Punjani](https://naushadpunjani.com/)*
 
 ---
 
