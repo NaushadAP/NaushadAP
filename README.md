@@ -1,90 +1,75 @@
-# 👋 Hi, I’m Naushad Punjani
+# 👋 Hi, I'm Naushad Punjani
 
-Full-stack developer | Aspiring Technical Solutions Architect | Future CTO
+Full-stack engineer with 5+ years building and operating production systems — currently at [Jazz](https://jazz.com.pk), Pakistan's largest telecom, where I ship features that touch millions of subscribers and own the coordination with external vendors when their APIs misbehave.
 
-I’m a results-driven software engineer with a strong background in building **scalable, high-impact digital solutions**. I enjoy working at the intersection of **technology, architecture, and business**, translating complex requirements into robust, maintainable systems.
-
-My long-term goal is to grow into a **Technical Solutions Architect**, shaping system design and cloud strategy at scale, and ultimately take on a **CTO role**, leading engineering teams and technology vision.
+I work across the stack and I'm most useful where the work crosses boundaries: API integrations, vendor management, and turning messy requirements into systems that hold up under real traffic.
 
 ---
 
-## 🧠 Core Skills & Expertise
+## 🧠 What I Work With
 
-### 💻 Programming & Development
-- JavaScript / TypeScript
-- Java
-- Python
-- SQL
-- REST & SOAP APIs
-
-### 🧩 Frameworks & Tools
-- React, Next.js
+### 💻 Backend
+- PHP / Laravel
 - Node.js
-- Spring / Spring Boot
-- WSO2 (API Manager, Integration)
-- Git, GitHub, CI/CD pipelines
+- REST API design & integration
+- MySQL, Redis
 
-### ☁️ Cloud, Architecture & DevOps
-- Cloud-native application design
-- Microservices & event-driven architecture
-- API-led integration
-- System design & performance optimization
-- Containerization & deployment fundamentals
-- Security-first design mindset
+### 🎨 Frontend
+- React.js, Vue.js
+- JavaScript / TypeScript
+- Tailwind CSS
 
----
+### 🛠 Infra & DevOps
+- Linux server administration
+- Nginx
+- Docker
+- GitHub Actions (CI/CD)
 
-## 🚀 What I’m Currently Working On
-
-- Designing and implementing **scalable backend services**
-- Strengthening **cloud architecture & system design** skills
-- Exploring **DevOps automation and CI/CD best practices**
-- Building projects that demonstrate **end-to-end solution ownership**
-- Developing leadership, communication, and architectural decision-making skills
+### 🤖 AI-Augmented Workflow
+- Claude Code, Cursor
+- Building custom commands and MCP integrations into daily engineering work
 
 ---
 
-## 📌 Featured Projects
+## 🚀 What I'm Currently Working On
 
-> *(Representative highlights — see repositories for details)*
+- **API contract monitoring tool** — Self-hosted service for catching when vendor APIs drift from their documented contracts. Born from real production pain.
+- **Production-ready Laravel stack** — Opinionated Docker + Nginx + CI setup for shipping Laravel apps that hold up.
+- **AI-augmented workflow** — Public artifacts of how I actually use Claude Code and Cursor day-to-day: configs, prompts, custom commands.
 
-- **Enterprise Integration Solutions**  
-  API-led integrations using WSO2, SOAP/REST services, and secure enterprise workflows.
-
-- **Full-Stack Web Applications**  
-  End-to-end applications using React/Next.js with scalable backend services.
-
-- **System Design & Architecture Demos**  
-  Proof-of-concepts focusing on microservices, scalability, and fault tolerance.
-
-- **Automation & Utilities**  
-  Developer tools and scripts aimed at improving productivity and reliability.
+*(Links go live as repos ship.)*
 
 ---
 
-## 🏆 Professional Highlights
+## 📌 Featured Work
 
-- Experience delivering solutions in **enterprise and telecom environments**
-- Strong background in **API design, integrations, and system workflows**
-- Contributor to internal tools and architecture discussions
-- Passionate about **mentorship, documentation, and clean system design**
+- **[job-portal](https://github.com/NaushadAP/job-portal)** — Laravel-based job management platform with employer/candidate flows.
+- More repos shipping over the coming weeks — watch this space.
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Background
 
-- **GitHub:** https://github.com/NaushadAP
-- **LinkedIn:** *[LinkedIn)](https://www.linkedin.com/in/naushad-punjani-a3b014129/)*
-- **Email:** *[Email)](napunjani@gmail.com)*
-- **Portfolio / Blog:** *[Naushad Punjani](https://naushadpunjani.com/)*
+- 5+ years across telecom and software roles (Jazz, TeleCard, Kore Digital, Artribe BPO)
+- Experience delivering at scale in enterprise environments
+- Strong background in API design, vendor integration, and cross-team coordination
+- Scrum-certified; comfortable owning solution architecture and stakeholder communication
 
 ---
 
-## 🤝 Let’s Collaborate
+## 📫 Reach Me
 
-I’m always open to:
-- Collaborating on meaningful open-source or enterprise-grade projects
-- Discussing system design, architecture, and cloud strategies
-- Connecting with engineers, architects, and founders building impactful products
+- 🌐 **Portfolio:** [naushadpunjani.com](https://naushadpunjani.com)
+- 💼 **LinkedIn:** [naushad-punjani](https://www.linkedin.com/in/naushad-punjani-a3b014129/)
+- 📝 **Writing:** [Dev.to](https://dev.to/) — most recently on the "Architecture Over Thinking Loop"
+- 📧 **Email:** napunjani@gmail.com
 
-Feel free to explore my repositories, open an issue, or reach out — let’s build something great.
+---
+
+## 🤝 Open To
+
+- Remote full-stack and backend engineering roles
+- Freelance projects (Laravel, Node, React, integrations)
+- Conversations on system design, API architecture, and vendor risk management
+
+Feel free to explore the repos, open an issue, or reach out.
